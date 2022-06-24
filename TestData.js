@@ -4,5 +4,5 @@
 "themeId": 1,
 "bannerText": "This is a Test Emergency Alert",
 "title": "Emergency Alert",
-"details": "This is a test"
+"details": "Test Alert: <a href=\"https://wsdot.wa.gov/\">WSDOT Website</a>"
 }
