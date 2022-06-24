@@ -1,8 +1,8 @@
 {
-"startDate": "2022-01-01",
-"endDate": "2022-12-01",
+"startDate": "2022-06-24",
+"endDate": "2022-06-24",
 "themeId": 1,
-"bannerText": "Test Alert",
-"title": "Test Alert",
-"details": "Test Alert: <a href=\"https://wsdot.wa.gov/\">WSDOT Website</a>"
+"bannerText": "This is a Test Emergency Alert",
+"title": "Emergency Alert",
+"details": "This is a test"
 }
