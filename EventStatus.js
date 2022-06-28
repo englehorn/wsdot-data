@@ -1,6 +1,6 @@
 {
-"startDate": "2022-06-27",
-"endDate": "2022-06-28",
+"startDate": "2022-06-01",
+"endDate": "2022-07-30",
 "themeId": 0,
 "bannerText": "This is a Test Emergency Alert",
 "title": "Emergency Alert",
