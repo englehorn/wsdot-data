@@ -2,184 +2,184 @@
 "waittimes": {
 "items": [
 {
-"wait": 2,
-"route": 5,
+"lane": "Car",
+"wait": 1,
 "id": 100,
 "name": "Peace Arch",
-"lane": "Car",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 5
 },
 {
+"lane": "Nexus",
 "wait": 0,
-"route": 5,
 "id": 101,
 "name": "Peace Arch",
-"lane": "Nexus",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 5
 },
 {
+"lane": "Car",
 "wait": 60,
-"route": 5,
 "id": 102,
 "name": "Peace Arch",
-"lane": "Car",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 5
 },
 {
+"lane": "Nexus",
 "wait": 5,
-"route": 5,
 "id": 103,
 "name": "Peace Arch",
-"lane": "Nexus",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 5
 },
 {
-"wait": 2,
-"route": 543,
+"lane": "Car",
+"wait": 1,
 "id": 104,
 "name": "Pacific Highway",
-"lane": "Car",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 543
 },
 {
+"lane": "Fast",
 "wait": 0,
-"route": 543,
 "id": 105,
 "name": "Pacific Highway",
-"lane": "Fast",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 543
 },
 {
+"lane": "Nexus",
 "wait": 0,
-"route": 543,
 "id": 106,
 "name": "Pacific Highway",
-"lane": "Nexus",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 543
 },
 {
+"lane": "Truck",
 "wait": 0,
-"route": 543,
 "id": 107,
 "name": "Pacific Highway",
-"lane": "Truck",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 543
 },
 {
-"wait": 30,
-"route": 543,
+"lane": "Car",
+"wait": 20,
 "id": 108,
 "name": "Pacific Highway",
-"lane": "Car",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 543
 },
 {
+"lane": "Fast",
 "wait": 5,
-"route": 543,
 "id": 109,
 "name": "Pacific Highway",
-"lane": "Fast",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 543
 },
 {
-"wait": 15,
-"route": 543,
+"lane": "Nexus",
+"wait": 5,
 "id": 110,
 "name": "Pacific Highway",
-"lane": "Nexus",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 543
 },
 {
+"lane": "Truck",
 "wait": 5,
-"route": 543,
 "id": 111,
 "name": "Pacific Highway",
-"lane": "Truck",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 543
 },
 {
+"lane": "Car",
 "wait": -1,
-"route": 539,
 "id": 112,
 "name": "Lynden/Aldergrove",
-"lane": "Car",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 539
 },
 {
+"lane": "Nexus",
 "wait": -1,
-"route": 539,
 "id": 113,
 "name": "Lynden/Aldergrove",
-"lane": "Nexus",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 539
 },
 {
-"wait": -1,
-"route": 539,
+"lane": "Car",
+"wait": 1,
 "id": 114,
 "name": "Lynden/Aldergrove",
-"lane": "Car",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 539
 },
 {
+"lane": "Nexus",
 "wait": -1,
-"route": 539,
 "id": 115,
 "name": "Lynden/Aldergrove",
-"lane": "Nexus",
+"updated": "Not Available",
 "direction": "southbound",
-"updated": "Not Available"
+"route": 539
 },
 {
+"lane": "Car",
 "wait": 5,
-"route": 9,
 "id": 116,
 "name": "Sumas/Huntingdon",
-"lane": "Car",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 9
 },
 {
+"lane": "Nexus",
 "wait": 5,
-"route": 9,
 "id": 117,
 "name": "Sumas/Huntingdon",
-"lane": "Nexus",
+"updated": "2022-07-01 03:00 PM",
 "direction": "northbound",
-"updated": "2022-07-01 02:45 PM"
+"route": 9
 },
 {
-"wait": 4,
-"route": 9,
+"lane": "Car",
+"wait": 3,
 "id": 118,
 "name": "Sumas/Huntingdon",
-"lane": "Car",
+"updated": "2022-07-01 02:55 PM",
 "direction": "southbound",
-"updated": "2022-07-01 02:40 PM"
+"route": 9
 },
 {
+"lane": "Nexus",
 "wait": -1,
-"route": 9,
 "id": 119,
 "name": "Sumas/Huntingdon",
-"lane": "Nexus",
+"updated": "Not Available",
 "direction": "southbound",
-"updated": "Not Available"
+"route": 9
 }
 ]
 }
