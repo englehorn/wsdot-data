@@ -1,8 +1,8 @@
 {
-"startDate": "2019-04-08",
-"endDate": "2019-04-12",
-"themeId": 1,
-"bannerText": "We've gone orange to raise awareness for workzone safety",
-"title": "Workzone Awareness Week",
-"details": "We've gone orange to raise awareness for workzone safety https://www.wsdot.wa.gov/safety/brake/"
+"startDate": "2022-01-01",
+"endDate": "2022-12-01",
+"themeId": 2,
+"bannerText": "Test",
+"title": "Test",
+"details": "Test"
 }
