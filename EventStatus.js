@@ -1,6 +1,6 @@
 {
-"startDate": "2022-01-01",
-"endDate": "2022-12-01",
+"startDate": "2023-01-01",
+"endDate": "2023-12-01",
 "themeId": 2,
 "bannerText": "Test",
 "title": "Test",
