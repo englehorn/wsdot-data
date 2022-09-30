@@ -213,23 +213,23 @@
             },
             {
               "header": false,
-              "rows": ["Two (includes motorcycle)", "$4.50", "$5.50", "$6.50"]
+              "rows": ["Two (includes motorcycle)", "$5.25", "$6.25", "$7.25"]
             },
             {
               "header": false,
-              "rows": ["Three", "$6.75", "$8.25", "$9.75"]
+              "rows": ["Three", "$7.90", "$9.40", "$10.90"]
             },
             {
               "header": false,
-              "rows": ["Four", "$9.00", "$11.00", "$13.00"]
+              "rows": ["Four", "$10.50", "$12.50", "$14.50"]
             },
             {
               "header": false,
-              "rows": ["Five", "$11.25", "$13.75", "$16.25"]
+              "rows": ["Five", "$13.15", "$15.65", "$18.15"]
             },
             {
               "header": false,
-              "rows": ["Six or more", "$13.50", "$16.50", "$19.50"]
+              "rows": ["Six or more", "$15.75", "$18.75", "$21.75"]
             }
           ]
        }
