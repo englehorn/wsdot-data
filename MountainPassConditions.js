@@ -1,1 +1,1151 @@
-{"GetMountainPassConditionsResult": {"PassCondition": [{"DateUpdated": [2023, 1, 27, 16, 34], "ElevationInFeet": 4102, "Latitude": 47.335298205, "Longitude": -120.581068216, "MountainPassId": 1, "MountainPassName": "Blewett Pass US 97", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Northbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Southbound"}, "RoadCondition": "The roadway is bare and wet.", "TemperatureInFahrenheit": 40, "TravelAdvisoryActive": true, "WeatherCondition": "Clear skies.", "Cameras": [{"id": 1138, "url": "https://images.wsdot.wa.gov/nc/097vc16375.jpg", "lat": 47.334713, "lon": -120.577424, "title": "US 97: Blewett Pass Summit"}], "Forecast": [{"ForecastText": "Partly cloudy, with a low around 22. Southwest wind 8 to 10 mph becoming north after midnight. Winds could gust as high as 18 mph. ", "Day": "TONIGHT"}, {"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a temperature rising to near 29 by 11am, then falling to around 20 during the remainder of the day. Blustery, with a northeast wind 11 to 18 mph.  New snow accumulation of 1 to 3 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "Partly cloudy, with a low around 8. Wind chill values as low as -7. Northeast wind 11 to 16 mph, with gusts as high as 24 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 19. Wind chill values as low as -8. Northeast wind 11 to 15 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 4. West wind 5 to 8 mph becoming calm. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 22.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 9.", "Day": "MONDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 26.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 13.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 28.", "Day": "WEDNESDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 17.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 32.", "Day": "THURSDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 21.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 35.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 27], "ElevationInFeet": 4675, "Latitude": 46.865575, "Longitude": -121.53611, "MountainPassId": 2, "MountainPassName": "Cayuse Pass SR 123", "RestrictionOne": {"RestrictionText": "Closed for the season", "TravelDirection": "Northbound"}, "RestrictionTwo": {"RestrictionText": "Closed for the season", "TravelDirection": "Southbound"}, "RoadCondition": "SR-123 Cayuse Pass is closed for the season due to adverse road and weather conditions. Northbound traffic is closed at milepost 5.5 just north of Stevens Canyon Rd. The southbound closure point is at milepost 16.3 the junction of SR 410.", "TemperatureInFahrenheit": 32, "TravelAdvisoryActive": true, "WeatherCondition": "", "Cameras": [], "Forecast": [{"ForecastText": "A 30 percent chance of snow after 10pm.  Mostly cloudy, with a low around 24. Wind chill values between 16 and 21. West northwest wind 5 to 7 mph.  Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly before 4pm. The snow could be heavy at times.  Temperature rising to near 30 by 11am, then falling to around 19 during the remainder of the day. Wind chill values between 2 and 12. West northwest wind 6 to 14 mph becoming east in the morning. Winds could gust as high as 20 mph.  Chance of precipitation is 100%. New snow accumulation of 2 to 4 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 30 percent chance of snow before 10pm.  Partly cloudy, with a low around 7. Wind chill values between -8 and 1. East wind 8 to 11 mph.  New snow accumulation of less than a half inch possible. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 20. Wind chill values between -9 and 1. East wind 9 to 11 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 5. East wind around 8 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 29.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 13.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A slight chance of snow.  Mostly cloudy, with a high near 30.", "Day": "TUESDAY"}, {"ForecastText": "A slight chance of snow.  Mostly cloudy, with a low around 18.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a high near 35.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a low around 23.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a high near 36.", "Day": "THURSDAY"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a low around 25.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a high near 36.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 27], "ElevationInFeet": 5430, "Latitude": 46.8717, "Longitude": -121.515483, "MountainPassId": 3, "MountainPassName": "Chinook Pass SR 410", "RestrictionOne": {"RestrictionText": "Closed for the season", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "Closed for the season", "TravelDirection": "Westbound"}, "RoadCondition": "SR-410 Chinook Pass is closed for the season. Eastbound traffic is closed at milepost 57, Crystal Mountain Boulevard, 12 miles west of the summit. Westbound traffic is closed at milepost 76.7 near Lodgepole, 7 miles east of the summit.", "TemperatureInFahrenheit": 32, "TravelAdvisoryActive": true, "WeatherCondition": "", "Cameras": [], "Forecast": [{"ForecastText": "Snow likely after 4am.  Mostly cloudy, with a low around 21. West wind 8 to 14 mph, with gusts as high as 20 mph.  Chance of precipitation is 60%. Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly before 4pm. The snow could be heavy at times.  Patchy blowing snow after 1pm. Temperature rising to near 25 by 10am, then falling to around 16 during the remainder of the day. Wind chill values as low as -2. South wind 8 to 16 mph becoming east in the afternoon. Winds could gust as high as 23 mph.  Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 30 percent chance of snow before 10pm.  Patchy blowing snow before 10pm. Mostly cloudy, then gradually becoming mostly clear, with a low around 2. Wind chill values as low as -16. East wind 17 to 21 mph, with gusts as high as 31 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 13. Wind chill values as low as -17. East wind 14 to 16 mph, with gusts as high as 24 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 1. Southeast wind 10 to 14 mph becoming southwest after midnight. Winds could gust as high as 20 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 22.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 9.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow showers.  Mostly cloudy, with a high near 24.", "Day": "TUESDAY"}, {"ForecastText": "A 30 percent chance of snow showers, mainly between 10pm and 4am.  Mostly cloudy, with a low around 15.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow showers, mainly after 10am.  Mostly cloudy, with a high near 29.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 20.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 30.", "Day": "THURSDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 21.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 30.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 28], "ElevationInFeet": 2600, "Latitude": 47.073008417, "Longitude": -121.577912874, "MountainPassId": 5, "MountainPassName": "Crystal to Greenwater SR 410", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is bare and wet.", "TemperatureInFahrenheit": 32, "TravelAdvisoryActive": true, "WeatherCondition": "Rain and snow mix.", "Cameras": [], "Forecast": [{"ForecastText": "A chance of rain and snow between 10pm and 1am, then a chance of snow after 1am.  Snow level 3300 feet lowering to 2600 feet after midnight . Mostly cloudy, with a low around 30. Calm wind becoming southwest around 5 mph in the evening.  Chance of precipitation is 30%. Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly before 4pm.  Temperature rising to near 34 by 11am, then falling to around 26 during the remainder of the day. Wind chill values between 12 and 22. Light and variable wind becoming east 6 to 11 mph in the morning.  Chance of precipitation is 90%. New snow accumulation of 1 to 2 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 20 percent chance of snow before 10pm.  Partly cloudy, with a low around 13. Wind chill values between -1 and 9. South wind 5 to 9 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 26. Wind chill values between -1 and 9. East southeast wind 7 to 10 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 11. Southeast wind 5 to 8 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 34.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 18.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A slight chance of snow.  Mostly cloudy, with a high near 36.", "Day": "TUESDAY"}, {"ForecastText": "A slight chance of snow.  Mostly cloudy, with a low around 23.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a high near 40.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a low around 28.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A chance of rain and snow.  Snow level rising to 3100 feet in the afternoon. Mostly cloudy, with a high near 42.", "Day": "THURSDAY"}, {"ForecastText": "A chance of rain and snow.  Snow level 2900 feet. Mostly cloudy, with a low around 30.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A chance of rain and snow.  Snow level 2900 feet rising to 3400 feet in the afternoon. Mostly cloudy, with a high near 41.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 15, 20], "ElevationInFeet": 3252, "Latitude": 48.281757946, "Longitude": -119.143406439, "MountainPassId": 15, "MountainPassName": "Disautel Pass SR 155", "RestrictionOne": {"RestrictionText": "No current information available", "TravelDirection": "Northbound"}, "RestrictionTwo": {"RestrictionText": "No current information available", "TravelDirection": "Southbound"}, "RoadCondition": "", "TemperatureInFahrenheit": 51, "TravelAdvisoryActive": false, "WeatherCondition": "", "Cameras": [], "Forecast": [{"ForecastText": "A 30 percent chance of snow after 4am.  Mostly cloudy, with a low around 21. Blustery, with a north wind 15 to 18 mph, with gusts as high as 31 mph.  Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "A 30 percent chance of snow, mainly before 10am.  Partly sunny, with a high near 28. Northeast wind 11 to 14 mph.  New snow accumulation of less than a half inch possible. ", "Day": "SATURDAY"}, {"ForecastText": "Mostly cloudy, then gradually becoming clear, with a low around 7. Wind chill values as low as -8. North wind 10 to 13 mph, with gusts as high as 21 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 19. Wind chill values as low as -9. North wind 8 to 13 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 4. North wind around 7 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 17.", "Day": "MONDAY"}, {"ForecastText": "A 10 percent chance of snow after 4am.  Mostly cloudy, with a low around 8.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow before 10am.  Mostly cloudy, with a high near 20.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 11.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 25.", "Day": "WEDNESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 17.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 30.", "Day": "THURSDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 21.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 32.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 11, 30], "ElevationInFeet": 4020, "Latitude": 48.387763059, "Longitude": -119.889745723, "MountainPassId": 14, "MountainPassName": "Loup Loup Pass SR 20", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is mostly bare and dry, wet in places.", "TemperatureInFahrenheit": 41, "TravelAdvisoryActive": false, "WeatherCondition": "Overcast.", "Cameras": [{"id": 4030, "url": "https://images.wsdot.wa.gov/nc/020vc21450.jpg", "lat": 48.387774, "lon": -119.890645, "title": "SR 20: LoupLoup Pass (East)"}], "Forecast": [{"ForecastText": "Mostly cloudy, with a low around 18. Northwest wind 11 to 14 mph. ", "Day": "TONIGHT"}, {"ForecastText": "A 30 percent chance of snow, mainly after 10am.  Partly sunny, with a high near 27. Northeast wind 13 to 15 mph.  New snow accumulation of 1 to 2 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "Mostly cloudy, then gradually becoming clear, with a low around 5. Wind chill values as low as -11. North wind 11 to 16 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 18. Wind chill values as low as -12. Northeast wind 9 to 15 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 1. Northwest wind around 6 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 15.", "Day": "MONDAY"}, {"ForecastText": "A 10 percent chance of snow after 4am.  Mostly cloudy, with a low around 4.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow before 10am.  Mostly cloudy, with a high near 19.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 8.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 22.", "Day": "WEDNESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 13.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 27.", "Day": "THURSDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 16.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 30.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 27], "ElevationInFeet": 2672, "Latitude": 46.881665326, "Longitude": -120.424877484, "MountainPassId": 13, "MountainPassName": "Manastash Ridge I-82", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is bare and dry", "TemperatureInFahrenheit": 40, "TravelAdvisoryActive": true, "WeatherCondition": "Broken overcast", "Cameras": [{"id": 1127, "url": "https://images.wsdot.wa.gov/rweather/UMRidge_medium.jpg", "lat": 46.89184, "lon": -120.43773, "title": "I-82: Manastash Ridge Summit"}], "Forecast": [{"ForecastText": "Partly cloudy, with a low around 31. Northwest wind 10 to 18 mph, with gusts as high as 26 mph. ", "Day": "TONIGHT"}, {"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a high near 35. Breezy, with a northeast wind 15 to 25 mph, with gusts as high as 34 mph. ", "Day": "SATURDAY"}, {"ForecastText": "Mostly cloudy, then gradually becoming mostly clear, with a low around 16. Blustery, with a northeast wind 18 to 22 mph, with gusts as high as 32 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 23. Northeast wind 15 to 17 mph, with gusts as high as 25 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 11. Northeast wind 5 to 7 mph becoming northwest after midnight. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 25.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 14.", "Day": "MONDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 28.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 17.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 30.", "Day": "WEDNESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 21.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 33.", "Day": "THURSDAY"}, {"ForecastText": "Mostly cloudy, with a low around 23.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A slight chance of snow showers.  Mostly cloudy, with a high near 39.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 31], "ElevationInFeet": 4250, "Latitude": 48.864609918, "Longitude": -121.668538475, "MountainPassId": 6, "MountainPassName": "Mt. Baker Hwy SR 542", "RestrictionOne": {"RestrictionText": "Traction Tires Required, Chains required on Vehicles over 10,000 gross vehicle weight.  Oversize Vehicles Prohibited.", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "Traction Tires Required, Chains required on Vehicles over 10,000 gross vehicle weight.  Oversize Vehicles Prohibited.", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway has compact snow and ice in places.", "TemperatureInFahrenheit": 29, "TravelAdvisoryActive": true, "WeatherCondition": "Snowing.", "Cameras": [], "Forecast": [{"ForecastText": "A slight chance of snow between 3am and 4am.  Mostly clear, with a low around 22. Northwest wind around 5 mph becoming light and variable.  Chance of precipitation is 20%.", "Day": "TONIGHT"}, {"ForecastText": "A 20 percent chance of snow before 9am.  Mostly cloudy, then gradually becoming sunny, with a temperature rising to near 24 by 10am, then falling to around 18 during the remainder of the day. Wind chill values between 4 and 14. Light east northeast wind becoming east southeast 9 to 14 mph in the morning. Winds could gust as high as 20 mph. ", "Day": "SATURDAY"}, {"ForecastText": "Mostly clear, with a low around 9. Wind chill values between -8 and 2. East wind 8 to 11 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 21. Wind chill values between -8 and 2. East northeast wind 6 to 11 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 10. East wind around 5 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 25.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 16.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A chance of snow.  Cloudy, with a high near 26.", "Day": "TUESDAY"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a low around 20.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a high near 32.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow.  Mostly cloudy, with a low around 26.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "Snow likely.  Mostly cloudy, with a high near 34.", "Day": "THURSDAY"}, {"ForecastText": "A chance of snow.  Cloudy, with a low around 28.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "Snow likely.  Mostly cloudy, with a high near 34.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 18, 8, 54], "ElevationInFeet": 5477, "Latitude": 48.503490448, "Longitude": -120.711911906, "MountainPassId": 7, "MountainPassName": "North Cascade Hwy SR 20", "RestrictionOne": {"RestrictionText": "Closed for the season", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "Closed for the season", "TravelDirection": "Westbound"}, "RoadCondition": "SR 20 North Cascades Highway between milepost 134 and 178 (Ross Dam Trailhead to Early Winters gate), is closed for the winter as of Nov. 8. Spring clearing work is typically assessed in March and the seasonal reopening can be as late as June, depending on conditions.", "TemperatureInFahrenheit": 42, "TravelAdvisoryActive": false, "WeatherCondition": "", "Cameras": [], "Forecast": [{"ForecastText": "Mostly cloudy, with a low around 15. Northwest wind 11 to 13 mph, with gusts as high as 24 mph. ", "Day": "TONIGHT"}, {"ForecastText": "A 50 percent chance of snow.  Partly sunny, with a high near 26. Northeast wind 9 to 13 mph.  New snow accumulation of less than one inch possible. ", "Day": "SATURDAY"}, {"ForecastText": "Partly cloudy, with a low around 1. Wind chill values as low as -13. Northeast wind 9 to 13 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 19. Wind chill values as low as -15. Northwest wind 10 to 15 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 4. West wind around 9 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 25.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 10.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 26.", "Day": "TUESDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 13.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 29.", "Day": "WEDNESDAY"}, {"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a low around 18.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a high near 32.", "Day": "THURSDAY"}, {"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a low around 19.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a high near 32.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 32], "ElevationInFeet": 3107, "Latitude": 45.984722, "Longitude": -120.653611, "MountainPassId": 8, "MountainPassName": "Satus Pass US 97", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Northbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Southbound"}, "RoadCondition": "Bare and Wet in places.", "TemperatureInFahrenheit": 41, "TravelAdvisoryActive": true, "WeatherCondition": "Clear", "Cameras": [{"id": 1137, "url": "https://images.wsdot.wa.gov/sw/097vc02711.jpg", "lat": 45.983807, "lon": -120.653824, "title": "US 97: Satus Pass"}], "Forecast": [{"ForecastText": "A 30 percent chance of snow after 4am.  Partly cloudy, with a low around 28. Northwest wind 7 to 10 mph. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly between 10am and 4pm.  Patchy blowing snow after 4pm. Temperature rising to near 34 by 10am, then falling to around 25 during the remainder of the day. North wind 9 to 17 mph, with gusts as high as 25 mph.  Chance of precipitation is 80%. New snow accumulation of 2 to 4 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 20 percent chance of snow before 10pm.  Patchy blowing snow. Cloudy during the early evening, then gradual clearing, with a low around 10. Wind chill values as low as -9. Blustery, with a north wind around 29 mph, with gusts as high as 44 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 21. Wind chill values as low as -9. Blustery, with a northeast wind 18 to 22 mph, with gusts as high as 32 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 6. North wind 6 to 13 mph, with gusts as high as 18 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 25.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 10.", "Day": "MONDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 31.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 15.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 33.", "Day": "WEDNESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 19.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 36.", "Day": "THURSDAY"}, {"ForecastText": "Mostly cloudy, with a low around 22.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A slight chance of snow showers.  Mostly cloudy, with a high near 40.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 20], "ElevationInFeet": 5575, "Latitude": 48.606667, "Longitude": -118.48, "MountainPassId": 9, "MountainPassName": "Sherman Pass SR 20", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "Compact snow and ice", "TemperatureInFahrenheit": 34, "TravelAdvisoryActive": true, "WeatherCondition": "overcast skies", "Cameras": [{"id": 1161, "url": "https://images.wsdot.wa.gov/rweather/shermanpass_medium.jpg", "lat": 48.604742, "lon": -118.459912, "title": "Sherman Pass on SR-20 @ MP 320"}], "Forecast": [{"ForecastText": "A 30 percent chance of snow, mainly after 4am.  Mostly cloudy, with a low around 13. Blustery, with a northwest wind 13 to 22 mph becoming northeast after midnight. Winds could gust as high as 30 mph.  Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "A 50 percent chance of snow, mainly before 10am.  Partly sunny, with a temperature rising to near 17 by 9am, then falling to around 10 during the remainder of the day. Wind chill values as low as -7. Northeast wind around 16 mph.  New snow accumulation of around an inch possible. ", "Day": "SATURDAY"}, {"ForecastText": "Partly cloudy, with a low around -1. Wind chill values as low as -16. North wind 9 to 13 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 13. Wind chill values as low as -18. North wind 9 to 13 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around -4. West wind around 8 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 14.", "Day": "MONDAY"}, {"ForecastText": "A 10 percent chance of snow after 4am.  Mostly cloudy, with a low around 2.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow before 10am.  Mostly cloudy, with a high near 17.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 6.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A slight chance of snow between 10am and 4pm.  Mostly cloudy, with a high near 21. Chance of precipitation is 20%.", "Day": "WEDNESDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 13.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 26.", "Day": "THURSDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 17.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 30.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 24], "ElevationInFeet": 3022, "Latitude": 47.41, "Longitude": -121.405833, "MountainPassId": 11, "MountainPassName": "Snoqualmie Pass I-90", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is bare and wet.", "TemperatureInFahrenheit": 33, "TravelAdvisoryActive": true, "WeatherCondition": "Occasional Light Rain", "Cameras": [{"id": 9433, "url": "https://images.wsdot.wa.gov/sc/090VC04526.jpg", "lat": 47.395833, "lon": -121.532778, "title": "Tinkham Road I-90 @ MP 45.26"}, {"id": 9029, "url": "https://images.wsdot.wa.gov/sc/090VC04680.jpg", "lat": 47.396441, "lon": -121.49935, "title": "Denny Creek on I-90 @ MP46.8"}, {"id": 9426, "url": "https://images.wsdot.wa.gov/sc/090VC04810.jpg", "lat": 47.393333, "lon": -121.473333, "title": "Asahel Curtis on I-90 @ MP48"}, {"id": 9427, "url": "https://images.wsdot.wa.gov/sc/090VC04938.jpg", "lat": 47.398068, "lon": -121.447255, "title": "I-90 at MP 49.3: Rockdale"}, {"id": 1099, "url": "https://images.wsdot.wa.gov/sc/090VC05130.jpg", "lat": 47.42246, "lon": -121.40991, "title": "Franklin Falls on I-90 @ MP51.3"}, {"id": 1100, "url": "https://images.wsdot.wa.gov/sc/090VC05200.jpg", "lat": 47.428388, "lon": -121.419629, "title": "I-90: Snoqualmie Summit @ MP 52"}, {"id": 9428, "url": "https://images.wsdot.wa.gov/sc/090VC05347.jpg", "lat": 47.410833, "lon": -121.410278, "title": "East Snoqualime Summit on I-90 @ MP53"}, {"id": 1102, "url": "https://images.wsdot.wa.gov/sc/090VC05517.jpg", "lat": 47.37325, "lon": -121.37699, "title": "I-90: Hyak @ MP 55.2"}, {"id": 9434, "url": "https://images.wsdot.wa.gov/sc/090VC05771.jpg", "lat": 47.357222, "lon": -121.367778, "title": "Old Keechelus Snow Shed I-90 @ MP 57.7"}, {"id": 9019, "url": "https://images.wsdot.wa.gov/sc/090VC06740.jpg", "lat": 47.264479, "lon": -121.284702, "title": "I-90: Top of Easton Hill @ MP 67.4"}, {"id": 1103, "url": "https://images.wsdot.wa.gov/sc/090VC07060.jpg", "lat": 47.280581, "lon": -121.185882, "title": "I-90: Easton @ MP 70.6"}, {"id": 8205, "url": "https://images.wsdot.wa.gov/sc/090VC07319.jpg", "lat": 47.217679, "lon": -121.128, "title": "West Nelson on I-90 @ mp 73.19"}, {"id": 8094, "url": "https://images.wsdot.wa.gov/rweather/Medium_bullfrog2.jpg", "lat": 47.18406, "lon": -121.00733, "title": "Bullfrog-facing east on I-90 @ MP 79.54"}, {"id": 9028, "url": "https://images.wsdot.wa.gov/sc/090VC08460.jpg", "lat": 47.21535, "lon": -120.937219, "title": "Cle Elum on I-90 @ MP 84.6"}, {"id": 9430, "url": "https://images.wsdot.wa.gov/sc/090VC08940.jpg", "lat": 47.162222, "lon": -120.848889, "title": "Indian John Hill on I-90 @ MP89"}, {"id": 1104, "url": "https://images.wsdot.wa.gov/sc/090VC09212.jpg", "lat": 47.132458, "lon": -120.809648, "title": "Elk Heights on I-90 @ MP 92"}, {"id": 8201, "url": "https://images.wsdot.wa.gov/sc/090VC09360.jpg", "lat": 47.119951, "lon": -120.800231, "title": "Elk Heights @ I-90 MP 93"}, {"id": 1105, "url": "https://images.wsdot.wa.gov/rweather/rocky_medium.jpg", "lat": 47.091975, "lon": -120.750985, "title": "Rocky Canyon on I-90 @ MP 96.2"}], "Forecast": [{"ForecastText": "A 30 percent chance of snow, mainly after 4am.  Mostly cloudy, with a low around 28. Northwest wind around 8 mph. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly between 10am and 4pm.  Temperature rising to near 31 by 10am, then falling to around 24 during the remainder of the day. East wind 6 to 13 mph, with gusts as high as 18 mph.  Chance of precipitation is 80%. New snow accumulation of 1 to 3 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 20 percent chance of snow before 10pm.  Mostly cloudy, then gradually becoming clear, with a low around 9. Wind chill values as low as -2. East wind 10 to 13 mph, with gusts as high as 18 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 21. Wind chill values as low as -3. East wind 8 to 10 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 5. East wind around 8 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 25.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 12.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow showers.  Mostly cloudy, with a high near 28.", "Day": "TUESDAY"}, {"ForecastText": "A 30 percent chance of snow showers.  Mostly cloudy, with a low around 17.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 31.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 22.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 32.", "Day": "THURSDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 25.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A chance of rain and snow showers.  Snow level rising to 3500 feet. Mostly cloudy, with a high near 33.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 39], "ElevationInFeet": 4061, "Latitude": 47.745, "Longitude": -121.093333, "MountainPassId": 10, "MountainPassName": "Stevens Pass US 2", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is bare and wet.", "TemperatureInFahrenheit": 39, "TravelAdvisoryActive": true, "WeatherCondition": "Partly cloudy.", "Cameras": [{"id": 9145, "url": "https://images.wsdot.wa.gov/nc/002vc06190.jpg", "lat": 47.732431, "lon": -121.134085, "title": "US 2 MP 62 Old Faithful Avalanche Zone"}, {"id": 9437, "url": "https://images.wsdot.wa.gov/nc/002vc06300.jpg", "lat": 47.7461, "lon": -121.121215, "title": "US 2 MP 63 Big Windy"}, {"id": 8063, "url": "https://images.wsdot.wa.gov/nc/002vc06430.jpg", "lat": 47.7513, "lon": -121.10619, "title": "US 2 MP 64.5 West Stevens Pass - Ski Lodge"}, {"id": 8062, "url": "https://images.wsdot.wa.gov/nc/002vc06458.jpg", "lat": 47.7513, "lon": -121.10619, "title": "US 2 MP 64.8 East Stevens Pass Summit"}, {"id": 9304, "url": "https://images.wsdot.wa.gov/nc/002vc07057.jpg", "lat": 47.772832, "lon": -121.007961, "title": "US 2 MP 70.5 Lower Mill Creek"}, {"id": 8083, "url": "https://images.wsdot.wa.gov/nc/winton.jpg", "lat": 47.7497, "lon": -120.73673, "title": "US 2 MP 87 Winton"}], "Forecast": [{"Day": "TONIGHT", "ForecastText": "Mostly cloudy. Lows in the 20s. West wind 5 to 15 mph in the evening, becoming light and variable. Gusts up to 25 mph. In the mountains, northwest wind 10 to 20 mph with gusts up to 30 mph."}, {"Day": "SATURDAY", "ForecastText": "Mostly cloudy with a 50 percent chance of snow. Highs in the lower to mid 30s. East wind 5 to 15 mph in the afternoon, gusts up to 25 mph in the afternoon. In the mountains, north wind 5 to 15 mph shifting to the east in the afternoon."}, {"Day": "SATURDAY NIGHT", "ForecastText": "Very cold. Partly cloudy. Lows 7 to 12. East wind 5 to 15 mph in the evening, becoming light and variable. Gusts up to 25 mph. In the mountains, east wind 10 to 20 mph with gusts up to 35 mph."}, {"Day": "SUNDAY", "ForecastText": "Sunny. Highs in the 20s."}, {"Day": "SUNDAY NIGHT", "ForecastText": "Very cold. Mostly clear. Lows 6 to 14."}, {"Day": "MONDAY", "ForecastText": "Sunny. Highs in the upper 20s to lower 30s."}, {"Day": "MONDAY NIGHT", "ForecastText": "Mostly cloudy. Lows 14 to 18. Temperature rising to around 13 after midnight."}, {"Day": "TUESDAY AND TUESDAY NIGHT", "ForecastText": "Mostly cloudy with a 20 percent chance of snow. Highs in the upper 20s to lower 30s. Lows 14 to 22."}, {"Day": "WEDNESDAY", "ForecastText": "Mostly cloudy with a 40 percent chance of snow. Highs in the 30s."}, {"Day": "WEDNESDAY NIGHT THROUGH FRIDAY", "ForecastText": "Mostly cloudy with a 50 percent chance of snow. Lows in the 20s. Highs in the mid 30s to lower 40s."}], "ForecastType": "Zone"}, {"DateUpdated": [2023, 1, 27, 15, 20], "ElevationInFeet": 4310, "Latitude": 48.726184869, "Longitude": -118.959520117, "MountainPassId": 16, "MountainPassName": "Wauconda Pass SR 20", "RestrictionOne": {"RestrictionText": "No current information available", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No current information available", "TravelDirection": "Westbound"}, "RoadCondition": "", "TemperatureInFahrenheit": 32, "TravelAdvisoryActive": false, "WeatherCondition": "", "Cameras": [{"id": 9921, "url": "https://images.wsdot.wa.gov/nc/020vc28872.jpg", "lat": 48.727768, "lon": -118.962871, "title": "SR 20 at MP 289: Wauconda (View East)"}, {"id": 9922, "url": "https://images.wsdot.wa.gov/nc/020vc28871.jpg", "lat": 48.727768, "lon": -118.962871, "title": "SR 20 at MP 289: Wauconda (View West)"}], "Forecast": [{"ForecastText": "Mostly cloudy, with a low around 17. North wind 9 to 15 mph, with gusts as high as 26 mph. ", "Day": "TONIGHT"}, {"ForecastText": "A 50 percent chance of snow.  Partly sunny, with a high near 26. Northeast wind 9 to 13 mph.  New snow accumulation of around an inch possible. ", "Day": "SATURDAY"}, {"ForecastText": "Partly cloudy, with a low around 1. Wind chill values as low as -15. North wind around 10 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 16. Wind chill values as low as -16. North wind 10 to 14 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around -2. Northwest wind around 6 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Mostly sunny, with a high near 18.", "Day": "MONDAY"}, {"ForecastText": "A 10 percent chance of snow after 4am.  Mostly cloudy, with a low around 2.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow before 10am.  Mostly cloudy, with a high near 21.", "Day": "TUESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 6.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "Mostly cloudy, with a high near 24.", "Day": "WEDNESDAY"}, {"ForecastText": "Mostly cloudy, with a low around 13.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 30.", "Day": "THURSDAY"}, {"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 17.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 32.", "Day": "FRIDAY"}], "ForecastType": "Point"}, {"DateUpdated": [2023, 1, 27, 16, 28], "ElevationInFeet": 4500, "Latitude": 46.638333, "Longitude": -121.39, "MountainPassId": 12, "MountainPassName": "White Pass  US 12", "RestrictionOne": {"RestrictionText": "No restrictions", "TravelDirection": "Eastbound"}, "RestrictionTwo": {"RestrictionText": "No restrictions", "TravelDirection": "Westbound"}, "RoadCondition": "The roadway is bare and wet, with slush in places.", "TemperatureInFahrenheit": 32, "TravelAdvisoryActive": true, "WeatherCondition": "Partly cloudy with occasional snow showers.", "Cameras": [{"id": 9464, "url": "https://images.wsdot.wa.gov/sc/012vc15095.jpg", "lat": 46.637262, "lon": -121.392994, "title": "White Pass Summit on US12 @ MP 150.9 - East"}], "Forecast": [{"ForecastText": "Snow likely after 4am.  Mostly cloudy, with a low around 23. West wind around 11 mph.  Chance of precipitation is 60%. Total nighttime snow accumulation of less than a half inch possible. ", "Day": "TONIGHT"}, {"ForecastText": "Snow, mainly before 4pm. The snow could be heavy at times.  Patchy blowing snow after 1pm. Temperature rising to near 27 by 10am, then falling to around 19 during the remainder of the day. North wind 6 to 16 mph becoming east in the morning. Winds could gust as high as 24 mph.  Chance of precipitation is 90%. New snow accumulation of 3 to 5 inches possible. ", "Day": "SATURDAY"}, {"ForecastText": "A 40 percent chance of snow before 10pm.  Patchy blowing snow before 1am. Mostly cloudy, then gradually becoming mostly clear, with a low around 4. Wind chill values as low as -13. Breezy, with an east wind 18 to 23 mph, with gusts as high as 34 mph. ", "Day": "SATURDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 13. Wind chill values as low as -14. East wind 14 to 17 mph, with gusts as high as 25 mph. ", "Day": "SUNDAY"}, {"ForecastText": "Mostly clear, with a low around 1. East wind 9 to 11 mph, with gusts as high as 18 mph. ", "Day": "SUNDAY NIGHT"}, {"ForecastText": "Sunny, with a high near 24.", "Day": "MONDAY"}, {"ForecastText": "Mostly cloudy, with a low around 10.", "Day": "MONDAY NIGHT"}, {"ForecastText": "A 20 percent chance of snow showers.  Mostly cloudy, with a high near 27.", "Day": "TUESDAY"}, {"ForecastText": "A 20 percent chance of snow showers.  Mostly cloudy, with a low around 16.", "Day": "TUESDAY NIGHT"}, {"ForecastText": "A chance of snow showers, mainly after 10am.  Mostly cloudy, with a high near 31.", "Day": "WEDNESDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 21.", "Day": "WEDNESDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 32.", "Day": "THURSDAY"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a low around 22.", "Day": "THURSDAY NIGHT"}, {"ForecastText": "A chance of snow showers.  Mostly cloudy, with a high near 32.", "Day": "FRIDAY"}], "ForecastType": "Point"}]}}
+{
+"GetMountainPassConditionsResult": {
+"PassCondition": [
+{
+"DateUpdated": [
+2023,
+1,
+30,
+11,
+13
+],
+"MountainPassId": 1,
+"RoadCondition": "The roadway is bare and dry with snow, frost and ice in places.",
+"Cameras": [
+{
+"lon": -120.577424,
+"lat": 47.334713,
+"url": "https://images.wsdot.wa.gov/nc/097vc16375.jpg",
+"title": "US 97: Blewett Pass Summit",
+"id": 1138
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Northbound",
+"RestrictionText": "Traction Tires Advised, Oversize Vehicles Prohibited."
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 4102,
+"Latitude": 47.335298205,
+"Longitude": -120.581068216,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Blewett Pass US 97",
+"TemperatureInFahrenheit": 7,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Increasing clouds, with a high near 26. Southwest wind around 7 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a steady temperature around 18. Southwest wind 7 to 9 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 32. Southwest wind around 9 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 19. West wind around 8 mph. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 35. Southwest wind around 7 mph. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 19.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 33.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a low around 22.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a high near 39.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "A 30 percent chance of snow, mainly before 10pm.  Mostly cloudy, with a low around 27.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 39.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a low around 28.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a high near 38.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Southbound",
+"RestrictionText": "Traction Tires Advised, Oversize Vehicles Prohibited."
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+48
+],
+"MountainPassId": 2,
+"RoadCondition": "SR-123 Cayuse Pass is closed for the season due to adverse road and weather conditions. Northbound traffic is closed at milepost 5.5 just north of Stevens Canyon Rd. The southbound closure point is at milepost 16.3 the junction of SR 410.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Northbound",
+"RestrictionText": "Closed for the season"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 4675,
+"Latitude": 46.865575,
+"Longitude": -121.53611,
+"WeatherCondition": "",
+"MountainPassName": "Cayuse Pass SR 123",
+"TemperatureInFahrenheit": null,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Southbound",
+"RestrictionText": "Closed for the season"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+40
+],
+"MountainPassId": 3,
+"RoadCondition": "SR-410 Chinook Pass is closed for the season. Eastbound traffic is closed at milepost 57, Crystal Mountain Boulevard, 12 miles west of the summit. Westbound traffic is closed at milepost 76.7 near Lodgepole, 7 miles east of the summit.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "Closed for the season"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 5430,
+"Latitude": 46.8717,
+"Longitude": -121.515483,
+"WeatherCondition": "",
+"MountainPassName": "Chinook Pass SR 410",
+"TemperatureInFahrenheit": null,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "Closed for the season"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+43
+],
+"MountainPassId": 5,
+"RoadCondition": "The roadway is dry with ice in places.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 2600,
+"Latitude": 47.073008417,
+"Longitude": -121.577912874,
+"WeatherCondition": "Clear.",
+"MountainPassName": "Crystal to Greenwater SR 410",
+"TemperatureInFahrenheit": 15,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+7,
+49
+],
+"MountainPassId": 15,
+"RoadCondition": "The roadway is mostly bare and dry with ice in places.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Northbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": false,
+"ElevationInFeet": 3252,
+"Latitude": 48.281757946,
+"Longitude": -119.143406439,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Disautel Pass SR 155",
+"TemperatureInFahrenheit": 0,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Southbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+6,
+2
+],
+"MountainPassId": 14,
+"RoadCondition": "The roadway is mostly bare and dry with frost and ice in places.",
+"Cameras": [
+{
+"lon": -119.890645,
+"lat": 48.387774,
+"url": "https://images.wsdot.wa.gov/nc/020vc21450.jpg",
+"title": "SR 20: LoupLoup Pass (East)",
+"id": 4030
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": false,
+"ElevationInFeet": 4020,
+"Latitude": 48.387763059,
+"Longitude": -119.889745723,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Loup Loup Pass SR 20",
+"TemperatureInFahrenheit": -1,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Increasing clouds, with a high near 17. Southwest wind 3 to 6 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a steady temperature around 10. West wind 3 to 5 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 22. Calm wind becoming west around 6 mph in the morning. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 12. Light northwest wind. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 26. Calm wind becoming south around 5 mph in the afternoon. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 14.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 29.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 17.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow, mainly between 10am and 4pm.  Mostly cloudy, with a high near 32.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow before 10pm.  Mostly cloudy, with a low around 21.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 33.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a low around 25.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a high near 35.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+44
+],
+"MountainPassId": 13,
+"RoadCondition": "The roadway is bare and dry.",
+"Cameras": [
+{
+"lon": -120.43773,
+"lat": 46.89184,
+"url": "https://images.wsdot.wa.gov/rweather/UMRidge_medium.jpg",
+"title": "I-82: Manastash Ridge Summit",
+"id": 1127
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 2672,
+"Latitude": 46.881665326,
+"Longitude": -120.424877484,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Manastash Ridge I-82",
+"TemperatureInFahrenheit": 19,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Mostly sunny, with a high near 27. South wind 3 to 6 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 21. South wind around 5 mph becoming calm  in the evening. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 32. Light and variable wind. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 24. Light and variable wind. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 34. Light and variable wind. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 24.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 35.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 27.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A slight chance of snow before 1pm, then a slight chance of rain and snow.  Mostly cloudy, with a high near 42. Chance of precipitation is 20%.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 31.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A chance of rain and snow.  Snow level 2800 feet. Mostly cloudy, with a high near 43.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A chance of rain and snow.  Snow level 3100 feet. Mostly cloudy, with a low around 33.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A chance of rain and snow.  Snow level 2800 feet. Mostly cloudy, with a high near 41.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+41
+],
+"MountainPassId": 6,
+"RoadCondition": "The roadway has compact snow and ice in places.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "Traction Tires Required, Chains required on Vehicles over 10,000 gross vehicle weight.  Oversize Vehicles Prohibited."
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 4250,
+"Latitude": 48.864609918,
+"Longitude": -121.668538475,
+"WeatherCondition": "Clear.",
+"MountainPassName": "Mt. Baker Hwy SR 542",
+"TemperatureInFahrenheit": 15,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "Traction Tires Required, Chains required on Vehicles over 10,000 gross vehicle weight.  Oversize Vehicles Prohibited."
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+18,
+8,
+54
+],
+"MountainPassId": 7,
+"RoadCondition": "SR 20 North Cascades Highway between milepost 134 and 178 (Ross Dam Trailhead to Early Winters gate), is closed for the winter as of Nov. 8. Spring clearing work is typically assessed in March and the seasonal reopening can be as late as June, depending on conditions.",
+"Cameras": [],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "Closed for the season"
+},
+"TravelAdvisoryActive": false,
+"ElevationInFeet": 5477,
+"Latitude": 48.503490448,
+"Longitude": -120.711911906,
+"WeatherCondition": "",
+"MountainPassName": "North Cascade Hwy SR 20",
+"TemperatureInFahrenheit": null,
+"ForecastType": "",
+"Forecast": [],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "Closed for the season"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+48
+],
+"MountainPassId": 8,
+"RoadCondition": "Bare and Dry.",
+"Cameras": [
+{
+"lon": -120.653824,
+"lat": 45.983807,
+"url": "https://images.wsdot.wa.gov/sw/097vc02711.jpg",
+"title": "US 97: Satus Pass",
+"id": 1137
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Northbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 3107,
+"Latitude": 45.984722,
+"Longitude": -120.653611,
+"WeatherCondition": "Clear.",
+"MountainPassName": "Satus Pass US 97",
+"TemperatureInFahrenheit": 15,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Mostly sunny, with a high near 26. South wind around 5 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a temperature rising to around 22 by midnight. Southwest wind around 8 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 36. Southwest wind 5 to 7 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 25. West wind around 8 mph. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 39. Southwest wind around 9 mph. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 22.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 38.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow after 10pm.  Mostly cloudy, with a low around 26.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A chance of snow before 1pm, then a chance of rain and snow.  Mostly cloudy, with a high near 42. Chance of precipitation is 30%.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "A slight chance of rain and snow before 10pm, then a slight chance of snow after 4am.  Snow level 3400 feet. Mostly cloudy, with a low around 30.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A slight chance of rain and snow.  Snow level 3400 feet rising to 4000 feet in the afternoon. Mostly cloudy, with a high near 44.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A chance of rain and snow.  Snow level 3800 feet. Mostly cloudy, with a low around 30.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A chance of rain and snow.  Snow level 3300 feet. Mostly cloudy, with a high near 41.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Southbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+51
+],
+"MountainPassId": 9,
+"RoadCondition": "Roadway is bare and dry with compact snow and ice in places.",
+"Cameras": [
+{
+"lon": -118.459912,
+"lat": 48.604742,
+"url": "https://images.wsdot.wa.gov/rweather/shermanpass_medium.jpg",
+"title": "Sherman Pass on SR-20 @ MP 320",
+"id": 1161
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 5575,
+"Latitude": 48.606667,
+"Longitude": -118.48,
+"WeatherCondition": "Clear sky.",
+"MountainPassName": "Sherman Pass SR 20",
+"TemperatureInFahrenheit": 5,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Partly sunny, with a high near 16. Wind chill values as low as -2. West wind 7 to 9 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "A chance of flurries between 10pm and 4am.  Mostly cloudy, with a steady temperature around 10. Wind chill values as low as -2. West wind 6 to 8 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "A chance of flurries after 10am.  Mostly cloudy, with a high near 20. West wind around 7 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "A chance of flurries before 10pm, then a chance of flurries after 4am.  Mostly cloudy, with a low around 10. West wind around 6 mph. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "A chance of flurries before 10am, then a slight chance of snow after 10am.  Mostly cloudy, with a high near 24. Southwest wind 5 to 8 mph.  Chance of precipitation is 20%.",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 15.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 28.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 19.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 31.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a low around 20.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow.  Mostly cloudy, with a high near 31.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a low around 25.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a high near 33.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+50
+],
+"MountainPassId": 11,
+"RoadCondition": "The roadway is bare and dry.",
+"Cameras": [
+{
+"lon": -121.532778,
+"lat": 47.395833,
+"url": "https://images.wsdot.wa.gov/sc/090VC04526.jpg",
+"title": "Tinkham Road I-90 @ MP 45.26",
+"id": 9433
+},
+{
+"lon": -121.49935,
+"lat": 47.396441,
+"url": "https://images.wsdot.wa.gov/sc/090VC04680.jpg",
+"title": "Denny Creek on I-90 @ MP46.8",
+"id": 9029
+},
+{
+"lon": -121.473333,
+"lat": 47.393333,
+"url": "https://images.wsdot.wa.gov/sc/090VC04810.jpg",
+"title": "Asahel Curtis on I-90 @ MP48",
+"id": 9426
+},
+{
+"lon": -121.447255,
+"lat": 47.398068,
+"url": "https://images.wsdot.wa.gov/sc/090VC04938.jpg",
+"title": "I-90 at MP 49.3: Rockdale",
+"id": 9427
+},
+{
+"lon": -121.40991,
+"lat": 47.42246,
+"url": "https://images.wsdot.wa.gov/sc/090VC05130.jpg",
+"title": "Franklin Falls on I-90 @ MP51.3",
+"id": 1099
+},
+{
+"lon": -121.419629,
+"lat": 47.428388,
+"url": "https://images.wsdot.wa.gov/sc/090VC05200.jpg",
+"title": "I-90: Snoqualmie Summit @ MP 52",
+"id": 1100
+},
+{
+"lon": -121.410278,
+"lat": 47.410833,
+"url": "https://images.wsdot.wa.gov/sc/090VC05347.jpg",
+"title": "East Snoqualime Summit on I-90 @ MP53",
+"id": 9428
+},
+{
+"lon": -121.37699,
+"lat": 47.37325,
+"url": "https://images.wsdot.wa.gov/sc/090VC05517.jpg",
+"title": "I-90: Hyak @ MP 55.2",
+"id": 1102
+},
+{
+"lon": -121.367778,
+"lat": 47.357222,
+"url": "https://images.wsdot.wa.gov/sc/090VC05771.jpg",
+"title": "Old Keechelus Snow Shed I-90 @ MP 57.7",
+"id": 9434
+},
+{
+"lon": -121.284702,
+"lat": 47.264479,
+"url": "https://images.wsdot.wa.gov/sc/090VC06740.jpg",
+"title": "I-90: Top of Easton Hill @ MP 67.4",
+"id": 9019
+},
+{
+"lon": -121.185882,
+"lat": 47.280581,
+"url": "https://images.wsdot.wa.gov/sc/090VC07060.jpg",
+"title": "I-90: Easton @ MP 70.6",
+"id": 1103
+},
+{
+"lon": -121.128,
+"lat": 47.217679,
+"url": "https://images.wsdot.wa.gov/sc/090VC07319.jpg",
+"title": "West Nelson on I-90 @ mp 73.19",
+"id": 8205
+},
+{
+"lon": -121.00733,
+"lat": 47.18406,
+"url": "https://images.wsdot.wa.gov/rweather/Medium_bullfrog2.jpg",
+"title": "Bullfrog-facing east on I-90 @ MP 79.54",
+"id": 8094
+},
+{
+"lon": -120.937219,
+"lat": 47.21535,
+"url": "https://images.wsdot.wa.gov/sc/090VC08460.jpg",
+"title": "Cle Elum on I-90 @ MP 84.6",
+"id": 9028
+},
+{
+"lon": -120.848889,
+"lat": 47.162222,
+"url": "https://images.wsdot.wa.gov/sc/090VC08940.jpg",
+"title": "Indian John Hill on I-90 @ MP89",
+"id": 9430
+},
+{
+"lon": -120.809648,
+"lat": 47.132458,
+"url": "https://images.wsdot.wa.gov/sc/090VC09212.jpg",
+"title": "Elk Heights on I-90 @ MP 92",
+"id": 1104
+},
+{
+"lon": -120.800231,
+"lat": 47.119951,
+"url": "https://images.wsdot.wa.gov/sc/090VC09360.jpg",
+"title": "Elk Heights @ I-90 MP 93",
+"id": 8201
+},
+{
+"lon": -120.750985,
+"lat": 47.091975,
+"url": "https://images.wsdot.wa.gov/rweather/rocky_medium.jpg",
+"title": "Rocky Canyon on I-90 @ MP 96.2",
+"id": 1105
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 3022,
+"Latitude": 47.41,
+"Longitude": -121.405833,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Snoqualmie Pass I-90",
+"TemperatureInFahrenheit": 18,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Mostly sunny, with a high near 27. South wind around 6 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 17. Calm wind becoming northwest around 6 mph in the evening. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 30. West wind around 7 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 21. Northwest wind 5 to 7 mph becoming southeast in the evening. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 33. Southeast wind 6 to 8 mph becoming west in the afternoon. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow before 4am.  Mostly cloudy, with a low around 24.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow after 10am.  Mostly cloudy, with a high near 33.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "Snow likely, mainly after 10pm.  Mostly cloudy, with a low around 26. Chance of precipitation is 60%.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "Snow likely before 1pm, then rain and snow likely.  Mostly cloudy, with a high near 33. Chance of precipitation is 70%.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "Rain and snow likely.  Snow level 3200 feet. Mostly cloudy, with a low around 30.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "Rain and snow likely.  Snow level 3200 feet rising to 3800 feet in the afternoon. Mostly cloudy, with a high near 36.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "Rain and snow.  Snow level 3400 feet. Cloudy, with a low around 30.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "Rain and snow.  Snow level 3200 feet. Mostly cloudy, with a high near 34.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+45
+],
+"MountainPassId": 10,
+"RoadCondition": "The road is bare and dry with frost and ice in places.",
+"Cameras": [
+{
+"lon": -121.134085,
+"lat": 47.732431,
+"url": "https://images.wsdot.wa.gov/nc/002vc06190.jpg",
+"title": "US 2 MP 62 Old Faithful Avalanche Zone",
+"id": 9145
+},
+{
+"lon": -121.121215,
+"lat": 47.7461,
+"url": "https://images.wsdot.wa.gov/nc/002vc06300.jpg",
+"title": "US 2 MP 63 Big Windy",
+"id": 9437
+},
+{
+"lon": -121.10619,
+"lat": 47.7513,
+"url": "https://images.wsdot.wa.gov/nc/002vc06430.jpg",
+"title": "US 2 MP 64.5 West Stevens Pass - Ski Lodge",
+"id": 8063
+},
+{
+"lon": -121.10619,
+"lat": 47.7513,
+"url": "https://images.wsdot.wa.gov/nc/002vc06458.jpg",
+"title": "US 2 MP 64.8 East Stevens Pass Summit",
+"id": 8062
+},
+{
+"lon": -121.007961,
+"lat": 47.772832,
+"url": "https://images.wsdot.wa.gov/nc/002vc07057.jpg",
+"title": "US 2 MP 70.5 Lower Mill Creek",
+"id": 9304
+},
+{
+"lon": -120.73673,
+"lat": 47.7497,
+"url": "https://images.wsdot.wa.gov/nc/winton.jpg",
+"title": "US 2 MP 87 Winton",
+"id": 8083
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 4061,
+"Latitude": 47.745,
+"Longitude": -121.093333,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Stevens Pass US 2",
+"TemperatureInFahrenheit": 9,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Mostly sunny, with a high near 24. Northeast wind around 6 mph becoming west in the afternoon. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 15. West wind around 7 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "A chance of flurries after 11am.  Mostly cloudy, with a high near 27. Southwest wind 6 to 9 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow after 11pm.  Mostly cloudy, with a low around 20. West wind around 7 mph. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 32. West wind 7 to 10 mph. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "A 20 percent chance of snow before 5am.  Mostly cloudy, with a low around 21.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "A 30 percent chance of snow, mainly after 5pm.  Mostly cloudy, with a high near 31. New snow accumulation of less than a half inch possible. ",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "Snow likely, mainly after 11pm.  Cloudy, with a low around 23. Chance of precipitation is 60%.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "Snow likely.  Cloudy, with a high near 32. Chance of precipitation is 60%.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Cloudy, with a low around 28.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Cloudy, with a high near 34.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "Snow likely.  Cloudy, with a low around 27. Chance of precipitation is 70%.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "Snow likely.  Cloudy, with a high near 32. Chance of precipitation is 70%.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+2,
+52
+],
+"MountainPassId": 16,
+"RoadCondition": "The roadway is bare and dry with compact snow and ice in places.",
+"Cameras": [
+{
+"lon": -118.962871,
+"lat": 48.727768,
+"url": "https://images.wsdot.wa.gov/nc/020vc28872.jpg",
+"title": "SR 20 at MP 289: Wauconda (View East)",
+"id": 9921
+},
+{
+"lon": -118.962871,
+"lat": 48.727768,
+"url": "https://images.wsdot.wa.gov/nc/020vc28871.jpg",
+"title": "SR 20 at MP 289: Wauconda (View West)",
+"id": 9922
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": false,
+"ElevationInFeet": 4310,
+"Latitude": 48.726184869,
+"Longitude": -118.959520117,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "Wauconda Pass SR 20",
+"TemperatureInFahrenheit": -3,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Increasing clouds, with a high near 20. Southwest wind around 6 mph. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "A chance of flurries before 5am.  Mostly cloudy, with a low around 6. South wind 3 to 6 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "A chance of flurries after 11am.  Mostly cloudy, with a high near 23. South wind 3 to 6 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 12. Light south wind. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "A chance of flurries after 11am.  Mostly cloudy, with a high near 27. Southeast wind 3 to 6 mph. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Cloudy, with a low around 16.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 31.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 19.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 35.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 21.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow.  Mostly cloudy, with a high near 35.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "A 40 percent chance of snow.  Mostly cloudy, with a low around 25.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a high near 36.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+},
+{
+"DateUpdated": [
+2023,
+1,
+30,
+10,
+45
+],
+"MountainPassId": 12,
+"RoadCondition": "The roadway is bare and dry, wet in places.",
+"Cameras": [
+{
+"lon": -121.392994,
+"lat": 46.637262,
+"url": "https://images.wsdot.wa.gov/sc/012vc15095.jpg",
+"title": "White Pass Summit on US12 @ MP 150.9 - East",
+"id": 9464
+}
+],
+"RestrictionOne": {
+"TravelDirection": "Eastbound",
+"RestrictionText": "No restrictions"
+},
+"TravelAdvisoryActive": true,
+"ElevationInFeet": 4500,
+"Latitude": 46.638333,
+"Longitude": -121.39,
+"WeatherCondition": "Clear skies",
+"MountainPassName": "White Pass  US 12",
+"TemperatureInFahrenheit": 20,
+"ForecastType": "Point",
+"Forecast": [
+{
+"ForecastText": "Mostly sunny, with a high near 28. East wind around 5 mph becoming northwest in the afternoon. ",
+"Day": "TODAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 16. West wind 8 to 10 mph, with gusts as high as 18 mph. ",
+"Day": "TONIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 30. West wind 9 to 11 mph, with gusts as high as 20 mph. ",
+"Day": "TUESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 19. West wind around 10 mph, with gusts as high as 18 mph. ",
+"Day": "TUESDAY NIGHT"
+},
+{
+"ForecastText": "Mostly cloudy, with a high near 33. West wind 10 to 13 mph, with gusts as high as 21 mph. ",
+"Day": "WEDNESDAY"
+},
+{
+"ForecastText": "Mostly cloudy, with a low around 22.",
+"Day": "WEDNESDAY NIGHT"
+},
+{
+"ForecastText": "A 20 percent chance of snow after 10am.  Mostly cloudy, with a high near 35.",
+"Day": "THURSDAY"
+},
+{
+"ForecastText": "A 50 percent chance of snow.  Mostly cloudy, with a low around 26.",
+"Day": "THURSDAY NIGHT"
+},
+{
+"ForecastText": "Snow likely.  Mostly cloudy, with a high near 33. Chance of precipitation is 60%.",
+"Day": "FRIDAY"
+},
+{
+"ForecastText": "Snow likely, mainly before 10pm.  Mostly cloudy, with a low around 28.",
+"Day": "FRIDAY NIGHT"
+},
+{
+"ForecastText": "Snow likely.  Mostly cloudy, with a high near 34.",
+"Day": "SATURDAY"
+},
+{
+"ForecastText": "Snow.  Mostly cloudy, with a low around 28.",
+"Day": "SATURDAY NIGHT"
+},
+{
+"ForecastText": "Snow.  Cloudy, with a high near 32.",
+"Day": "SUNDAY"
+}
+],
+"RestrictionTwo": {
+"TravelDirection": "Westbound",
+"RestrictionText": "No restrictions"
+}
+}
+]
+}
+}
