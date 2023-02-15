@@ -51,7 +51,7 @@
 "EventText": "Text1",
 "Status": "",
 "OpeningTime": "2022-06-27T10:30:00",
-"BridgeOpeningId": 52103,
+"BridgeOpeningId": 52104,
 "BridgeLocation": {
 "Description": "Interstate Bridge",
 "Longitude": -122.6216,
@@ -67,7 +67,7 @@
 "EventText": "Text2",
 "Status": "",
 "OpeningTime": "2022-06-27T10:30:00",
-"BridgeOpeningId": 52103,
+"BridgeOpeningId": 52105,
 "BridgeLocation": {
 "Description": "Interstate Bridge",
 "Longitude": -122.6216,
