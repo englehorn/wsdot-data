@@ -1,4 +1,33 @@
 [
+ {
+"EventStatus": "Open",
+"ExtendedDescription": "",
+"StartTime": "/Date(1662648840000-0700)/",
+"HeadlineDescription": "On SR 99 northbound on the 1st Ave S Bridge (MP 27) the HOV lane is closed due to maintenance.",
+"Region": "Northwest",
+"StartRoadwayLocation": {
+"Latitude": 47.541306336,
+"RoadName": "099",
+"Longitude": -122.334430607,
+"Description": null,
+"MilePost": 26.8,
+"Direction": "N"
+},
+"EventCategory": "Maintenance",
+"EndTime": null,
+"County": null,
+"AlertID": 516007,
+"LastUpdatedTime": "/Date(1662648910883-0700)/",
+"Priority": "Medium",
+"EndRoadwayLocation": {
+"Latitude": 0,
+"RoadName": "099",
+"Longitude": 0,
+"Description": null,
+"MilePost": 0,
+"Direction": "N"
+}
+},
 {
 "AlertID": 539406,
 "County": null,
