@@ -5,6 +5,16 @@
 "title": "Test Six Topic",
 "category": "Bridge Alerts"
 },
+  {
+"topic": "test_seven_topic",
+"title": "Test Seven Topic",
+"category": "Bridge Alerts"
+},
+    {
+"topic": "test_eight_topic",
+"title": "Test Eight Topic",
+"category": "Bridge Alerts"
+},
 {
 "topic": "interstate_bridge",
 "title": "Interstate Bridge",
