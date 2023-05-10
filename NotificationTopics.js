@@ -1,5 +1,10 @@
 {
 "topics": [
+  {
+"topic": "test_six_topic",
+"title": "Test Six Topic",
+"category": "Bridge Alerts"
+},
 {
 "topic": "interstate_bridge",
 "title": "Interstate Bridge",
