@@ -15,6 +15,11 @@
 "title": "Test Eight Topic",
 "category": "Bridge Alerts"
 },
+      {
+"topic": "test_nine_topic",
+"title": "Test Nine Topic",
+"category": "Bridge Alerts"
+},
 {
 "topic": "interstate_bridge",
 "title": "Interstate Bridge",
