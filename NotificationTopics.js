@@ -1,29 +1,14 @@
 {
 "topics": [
-    {
-"topic": "test_five_topic",
-"title": "Test Five Topic",
+  {
+"topic": "test_one_topic",
+"title": "Test One Topic",
 "category": "Bridge Alerts"
 },
   {
-"topic": "test_six_topic",
-"title": "Test Six Topic",
-"category": "Bridge Alerts"
-},
-  {
-"topic": "test_seven_topic",
-"title": "Test Seven Topic",
-"category": "Bridge Alerts"
-},
-    {
-"topic": "test_eight_topic",
-"title": "Test Eight Topic",
-"category": "Bridge Alerts"
-},
-      {
-"topic": "test_nine_topic",
-"title": "Test Nine Topic",
-"category": "Bridge Alerts"
+"topic": "test_two_topic",
+"title": "Test Two Topic",
+"category": "Traffic Alerts"
 },
 {
 "topic": "interstate_bridge",
