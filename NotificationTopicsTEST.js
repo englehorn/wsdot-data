@@ -10,6 +10,11 @@
 "title": "Test Two Topic",
 "category": "Traffic Alerts"
 },
+   {
+"topic": "test_three_topic",
+"title": "Test Three Topic",
+"category": "Ferry Alerts"
+},
 {
 "topic": "interstate_bridge",
 "title": "Interstate Bridge",
