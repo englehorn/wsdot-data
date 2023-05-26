@@ -28,7 +28,6 @@
       "Longitude": -122.6216
     },
     "EventCategory": "Boat Traffic",
-    "Priority": "Highest",
     "Status": "Scheduled",
     "OpeningTime": "2023-05-26T11:45:00",
     "OriginalBridgeOpenScheduleDate": null,
