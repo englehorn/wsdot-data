@@ -14,7 +14,7 @@
     "OriginalBridgeOpenScheduleDate": null,
     "Duration": 60,
     "EventText": "On SR 104 a Hood Canal bridge closure has been scheduled for approximately 1:45 pm on Saturday May 27 for boat traffic. Drivers can expect delays of up to 60 minutes.",
-    "Priority": "High",
+    "Priority": "Low",
     "EventCategory": ""
   },
   {
