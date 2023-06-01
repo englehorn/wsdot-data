@@ -3,7 +3,7 @@
 "County": null,
 "HeadlineDescription": "On SR 529 northbound & southbound at Snohomish River Bridge (MP 5) all lanes will be closed today at 2:31 PM due to boat traffic.  Drivers should anticipate a delay of up to 30 minutes or consider using an alternate route.",
 "AlertID": 552132,
-"LastUpdatedTime": "[/Date(1685568706693-0700)/](http://data.wsdot.wa.gov/Date(1685568706693-0700)/)",
+"LastUpdatedTime": "/Date(1662648910883-0700)/",
 "EndTime": null,
 "Region": "Northwest",
 "StartRoadwayLocation": {
@@ -14,7 +14,7 @@
 "Direction": "B",
 "RoadName": "529"
 },
-"StartTime": "[/Date(1685568660000-0700)/](http://data.wsdot.wa.gov/Date(1685568660000-0700)/)",
+"StartTime": "/Date(1662648840000-0700)/",
 "EndRoadwayLocation": {
 "MilePost": 0,
 "Description": null,
