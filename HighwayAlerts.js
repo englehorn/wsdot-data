@@ -1,21 +1,4 @@
 [
-  {
-    "BridgeOpeningId": 551592,
-    "EventText": "On SR 99 northbound & southbound at 1st Ave S Bridge (MP 26) all lanes will be closed today at 8:58 AM due to boat traffic. Drivers should anticipate a delay of up to 30 minutes or consider using an alternate route.",
-    "Status": "",
-    "OriginalBridgeOpenScheduleDate": null,
-    "Duration": 0,
-    "OpeningTime": "",
-    "Priority": "Highest",
-    "BridgeLocation": {
-      "Description": "1st Avenue South Bridge",
-      "Direction": "B",
-      "RoadName": "099",
-      "Longitude": -122.331524751,
-      "Latitude": 47.5337063,
-      "MilePost": 26
-    }
-  },
  {
 "County": null,
 "HeadlineDescription": "On SR 529 northbound & southbound at Snohomish River Bridge (MP 5) all lanes will be closed today at 2:31 PM due to boat traffic.  Drivers should anticipate a delay of up to 30 minutes or consider using an alternate route.",
