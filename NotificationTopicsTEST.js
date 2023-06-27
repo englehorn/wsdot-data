@@ -1,288 +1,273 @@
 {
 "topics": [
-  {
-"topic": "test_one_topic",
-"title": "Test One Topic",
-"category": "Bridge Alerts"
-},
-  {
-"topic": "test_two_topic",
-"title": "Test Two Topic",
-"category": "Traffic Alerts"
-},
-   {
-"topic": "test_three_topic",
-"title": "Test Three Topic",
-"category": "Ferry Alerts"
-},
 {
-"topic": "interstate_bridge",
-"title": "Interstate Bridge",
+"topic": "interstate_bridge_TEST",
+"title": "Interstate Bridge TEST",
 "category": "Bridge Alerts"
 },
 {
-"topic": "1st_ave_bridge",
-"title": "1st Avenue South Bridge in Seattle",
+"topic": "1st_ave_bridge_TEST",
+"title": "1st Avenue South Bridge in Seattle TEST",
 "category": "Bridge Alerts"
 },
 {
-"topic": "hood_canal_bridge",
-"title": "Hood Canal Bridge Openings",
+"topic": "hood_canal_bridge_TEST",
+"title": "Hood Canal Bridge Openings TEST",
 "category": "Bridge Alerts"
 },
 {
-"topic": "ferry_route_9",
-"title": "Anacortes / San Juan Islands",
+"topic": "ferry_route_9_TEST",
+"title": "Anacortes / San Juan Islands TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_272",
-"title": "Anacortes / San Juan Islands / Sidney B.C.",
+"topic": "ferry_route_272_TEST",
+"title": "Anacortes / San Juan Islands / Sidney B.C. TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_6",
-"title": "Edmonds / Kingston",
+"topic": "ferry_route_6_TEST",
+"title": "Edmonds / Kingston TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_14",
-"title": "Fauntleroy (West Seattle) / Vashon",
+"topic": "ferry_route_14_TEST",
+"title": "Fauntleroy (West Seattle) / Vashon TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_13",
-"title": "Fauntleroy (West Seattle) / Southworth",
+"topic": "ferry_route_13_TEST",
+"title": "Fauntleroy (West Seattle) / Southworth TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_300",
-"title": "Keller Ferry",
+"topic": "ferry_route_300_TEST",
+"title": "Keller Ferry TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_7",
-"title": "Mukilteo / Clinton",
+"topic": "ferry_route_7_TEST",
+"title": "Mukilteo / Clinton TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_8",
-"title": "Port Townsend / Coupeville",
+"topic": "ferry_route_8_TEST",
+"title": "Port Townsend / Coupeville TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_1",
-"title": "Pt Defiance / Tahlequah",
+"topic": "ferry_route_1_TEST",
+"title": "Pt Defiance / Tahlequah TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_5",
-"title": "Seattle / Bainbridge Island",
+"topic": "ferry_route_5_TEST",
+"title": "Seattle / Bainbridge Island TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_3",
-"title": "Seattle / Bremerton",
+"topic": "ferry_route_3_TEST",
+"title": "Seattle / Bremerton TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "ferry_route_15",
-"title": "Southworth / Vashon",
+"topic": "ferry_route_15_TEST",
+"title": "Southworth / Vashon TEST",
 "category": "Ferry Alerts"
 },
 {
-"topic": "adams_county",
-"title": "Adams County",
+"topic": "adams_county_TEST",
+"title": "Adams County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "asotin_county",
-"title": "Asotin County",
+"topic": "asotin_county_TEST",
+"title": "Asotin County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "benton_county",
-"title": "Benton County",
+"topic": "benton_county_TEST",
+"title": "Benton County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "chelan_county",
-"title": "Chelan County",
+"topic": "chelan_county_TEST",
+"title": "Chelan County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "clallam_county",
-"title": "Clallam County",
+"topic": "clallam_county_TEST",
+"title": "Clallam County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "clark_county",
-"title": "Clark County",
+"topic": "clark_county_TEST",
+"title": "Clark County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "columbia_county",
-"title": "Columbia County",
+"topic": "columbia_county_TEST",
+"title": "Columbia County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "cowlitz_county",
-"title": "Cowlitz County",
+"topic": "cowlitz_county_TEST",
+"title": "Cowlitz County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "douglas_county",
-"title": "Douglas County",
+"topic": "douglas_county_TEST",
+"title": "Douglas County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "ferry_county",
-"title": "Ferry County",
+"topic": "ferry_county_TEST",
+"title": "Ferry County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "franklin_county",
-"title": "Franklin County",
+"topic": "franklin_county_TEST",
+"title": "Franklin County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "garfield_county",
-"title": "Garfield County",
+"topic": "garfield_county_TEST",
+"title": "Garfield County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "grant_county",
-"title": "Grant County",
+"topic": "grant_county_TEST",
+"title": "Grant County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "grays_harbor_county",
-"title": "Grays Harbor County",
+"topic": "grays_harbor_county_TEST",
+"title": "Grays Harbor County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "island_county",
-"title": "Island County",
+"topic": "island_county_TEST",
+"title": "Island County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "jefferson_county",
-"title": "Jefferson County",
+"topic": "jefferson_county_TEST",
+"title": "Jefferson County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "king_county",
-"title": "King County",
+"topic": "king_county_TEST",
+"title": "King County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "kitsap_county",
-"title": "Kitsap County",
+"topic": "kitsap_county_TEST",
+"title": "Kitsap County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "kittitas_county",
-"title": "Kittitas County",
+"topic": "kittitas_county_TEST",
+"title": "Kittitas County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "klickitat_county",
-"title": "Klickitat County",
+"topic": "klickitat_county_TEST",
+"title": "Klickitat County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "lewis_county",
-"title": "Lewis County",
+"topic": "lewis_county_TEST",
+"title": "Lewis County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "lincoln_county",
-"title": "Lincoln County",
+"topic": "lincoln_county_TEST",
+"title": "Lincoln County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "mason_county",
-"title": "Mason County",
+"topic": "mason_county_TEST",
+"title": "Mason County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "okanogan_county",
-"title": "Okanogan County",
+"topic": "okanogan_county_TEST",
+"title": "Okanogan County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "pacific_county",
-"title": "Pacific County",
+"topic": "pacific_county_TEST",
+"title": "Pacific County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "pend_oreille_county",
-"title": "Pend Oreille County",
+"topic": "pend_oreille_county_TEST",
+"title": "Pend Oreille County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "pierce_county",
-"title": "Pierce County",
+"topic": "pierce_county_TEST",
+"title": "Pierce County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "san_juan_county",
-"title": "San Juan County",
+"topic": "san_juan_county_TEST",
+"title": "San Juan County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "skagit_county",
-"title": "Skagit County",
+"topic": "skagit_county_TEST",
+"title": "Skagit County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "skamania_county",
-"title": "Skamania County",
+"topic": "skamania_county_TEST",
+"title": "Skamania County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "snohomish_county",
-"title": "Snohomish County",
+"topic": "snohomish_county_TEST",
+"title": "Snohomish County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "spokane_county",
-"title": "Spokane County",
+"topic": "spokane_county_TEST",
+"title": "Spokane County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "stevens_county",
-"title": "Stevens County",
+"topic": "stevens_county_TEST",
+"title": "Stevens County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "thurston_county",
-"title": "Thurston County",
+"topic": "thurston_county_TEST",
+"title": "Thurston County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "wahkiakum_county",
-"title": "Wahkiakum County",
+"topic": "wahkiakum_county_TEST",
+"title": "Wahkiakum County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "walla_walla_county",
-"title": "Walla Walla County",
+"topic": "walla_walla_county_TEST",
+"title": "Walla Walla County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "whatcom_county",
-"title": "Whatcom County",
+"topic": "whatcom_county_TEST",
+"title": "Whatcom County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "whitman_county",
-"title": "Whitman County",
+"topic": "whitman_county_TEST",
+"title": "Whitman County TEST",
 "category": "Traffic Alerts"
 },
 {
-"topic": "yakima_county",
-"title": "Yakima County",
+"topic": "yakima_county_TEST",
+"title": "Yakima County TEST",
 "category": "Traffic Alerts"
 }
 ]
